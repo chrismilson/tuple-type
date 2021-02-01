@@ -1,6 +1,6 @@
 {
 	"name": "tuple-type",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "A generic tuple type for Typescript.",
 	"license": "MIT",
 	"repository": {
@@ -11,6 +11,9 @@
 		"url": "https://github.com/chrismilson/tuple-type/issues"
 	},
 	"types": "index.d.ts",
+	"files": [
+		"index.d.ts"
+	],
 	"scripts": {
 		"lint": "eslint . --ext .ts,.tsx,.js,.jsx",
 		"fix": "yarn lint --fix",
