@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/%40shlappas%2Ftuple-type.svg)](https://badge.fury.io/js/%40shlappas%2Ftuple-type)
+[![npm version](https://badge.fury.io/js/tuple-type.svg)](https://badge.fury.io/js/tuple-type)
 
 # Tuple Type
 
