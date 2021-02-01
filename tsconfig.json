@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "emitDeclarationOnly": true,
+    "declaration": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "downlevelIteration": true,
+    "moduleResolution": "node"
+  },
+  "include": ["./src", "index.ts"],
+  "exclude": ["./node_modules/**/*", "**/__test__/**/*", "**/*.test.*"]
+}
