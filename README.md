@@ -18,5 +18,5 @@ This package provides exactly that. Simple!
 ## Installation
 
 ```bash
-yarn add @shlappas/tuple-type
+yarn add tuple-type
 ```
